@@ -1,52 +1,52 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram id="pg1_grid" name="5.1 Набор элементов (по клеткам)">
-    <mxGraphModel dx="989" dy="582" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="393" dy="696" grid="1" gridSize="9.8425" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s1" value="Процесс" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="s1" value="Процесс" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="39.370000000000005" y="157.48" width="118.11" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="s2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Предопределённый&lt;br&gt;процесс&lt;/font&gt;" style="shape=process;size=0.1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=15;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="s2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Предопределённый&lt;br style=&quot;font-size: 12px;&quot;&gt;процесс&lt;/font&gt;" style="shape=process;size=0.1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="196.84999999999997" y="157.48" width="118.11" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="s3" value="Данные" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;size=19.6850000000004;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=16;fontColor=#000000;rotation=0;" parent="1" vertex="1">
+        <mxCell id="s3" value="Данные" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;size=19.6850000000004;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="353.99999999999983" y="157.48" width="118.11" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="s4" value="Документ" style="shape=document;boundedLbl=1;size=0.18;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=16;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="s4" value="Документ" style="shape=document;boundedLbl=1;size=0.18;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="511.80609999999996" y="157.4811" width="118.11" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="s5" value="Решение" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="196.85" y="275.59" width="118.11" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="s6" value="Подготовка" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;size=28.3465;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="s6" value="Подготовка" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;size=19.687499999999986;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="39.36750000000001" y="275.5904" width="118.11" height="78.74" as="geometry" />
         </mxCell>
         <mxCell id="s7" value="Терминатор" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=1.89;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="353.99680000000006" y="295.27799999999996" width="118.11" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="s8_grp" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="s8_grp" value="" style="group;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="511.80609999999996" y="275.5904" width="118.11" height="78.74" as="geometry" />
         </mxCell>
-        <mxCell id="s8_dash" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;dashed=1;dashPattern=6 4;rounded=0;" parent="s8_grp" edge="1">
+        <mxCell id="s8_dash" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;dashed=1;dashPattern=6 4;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="s8_grp" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="39.36999999999999" as="sourcePoint" />
             <mxPoint x="32.21181301653887" y="39.36999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8_top" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;rounded=0;" parent="s8_grp" edge="1">
+        <mxCell id="s8_top" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="s8_grp" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="32.21181301653887" as="sourcePoint" />
             <mxPoint x="42.94912190076681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8_vert" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;rounded=0;" parent="s8_grp" edge="1">
+        <mxCell id="s8_vert" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="s8_grp" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="32.21181301653887" as="sourcePoint" />
             <mxPoint x="32.21181301653887" y="78.73999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8_bot" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;rounded=0;" parent="s8_grp" edge="1">
+        <mxCell id="s8_bot" value="" style="endArrow=none;html=1;strokeWidth=1.89;strokeColor=#000000;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="s8_grp" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="32.21181301653887" y="78.73999999999998" as="sourcePoint" />
             <mxPoint x="42.94912190076681" y="78.73999999999998" as="targetPoint" />
